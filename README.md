@@ -61,4 +61,4 @@
 ---
 
 ## 🌐 FIRE STAR Design Studio  
-Digital Art / Engineering / Neo-Creation  
+Digital Art / Engineering / Neo-Creation 
