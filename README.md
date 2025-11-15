@@ -9,50 +9,43 @@
 
 ## 📁 収録カテゴリ
 
-### 1. 🧟 Zombie City（スマートフォン・ゾンビ）
+---
+
+## 1. 🧟 Zombie City（スマートフォン・ゾンビ）
+
 スマホを見て歩く人間をパロディ化した安全啓発ピクトグラム。
 
 | バリエーション | 画像 |
-|----------------|-------|
-| **Original** | ![](pictogram/zombie_city_original.png) |
-| **Green** | ![](pictogram/zombie_city_green.png) |
-| **Purple** | ![](pictogram/zombie_city_purple.png) |
-| **Red** | ![](pictogram/zombie_city_red.png) |
-| **Yellow** | ![](pictogram/zombie_city_yellow.png) |
+|----------------|------|
+| **Original** | ![](pictogram/zombie_city/zombie_city_original.png) |
+| **Green** | ![](pictogram/zombie_city/zombie_city_green.png) |
+| **Purple** | ![](pictogram/zombie_city/zombie_city_purple.png) |
+| **Red** | ![](pictogram/zombie_city/zombie_city_red.png) |
+| **Yellow** | ![](pictogram/zombie_city/zombie_city_yellow.png) |
 
 ---
 
-### 2. 🥷 Ninja City
-忍者が現代都市に紛れ込んだユーモア交通標識。
+## 2. 🥷 Ninja City  
+現代都市に紛れ込んだ忍者を標識風に表現したユーモア作品。
 
-| 画像 |
-|------|
-| ![](pictogram/ninja_city.png) |
+![](pictogram/ninja_city/ninja_city.png)
 
 ---
 
-### 3. 🪂 Parachute Train（パラシュート列車）
-パラシュートを背負った人物シルエットの特殊ピクトグラム。
+## 3. 🪂 Parachute Train  
+パラシュートを背負った人物をシルエット化したピクトグラム。
 
-| 画像 |
-|------|
-| ![](pictogram/parachute%20train%20.png) |
-
-（※ファイル名にスペースがあるため、 `%20` でエスケープされています  
-→ 推奨：`parachute_train.png` へ後でリネーム）
+![](pictogram/parachute/parachute_train.png)
 
 ---
 
-### 4. 🧃 Vending Mimics（自販機ミミック）
-自販機が擬態しているというユーモア・ホラー系ピクトグラム。
+## 4. 🧃 Vending Mimic  
+自販機が擬態するというユーモアホラー作品。
 
 | タイプ | 画像 |
-|--------|-------|
-| **Mimic 01** | ![](pictogram/vending%20mimics%2002.png) |
-| **Mimic AI** | ![](pictogram/vending%20mimics%20AI.png) |
-
-（こちらもスペースのため `%20` が入ります  
-→ 推奨：`vending_mimic_01.png` / `vending_mimic_02.png`）
+|--------|------|
+| **Mimic 01** | ![](pictogram/vending_mimic/vending_mimic_01.png) |
+| **Mimic 02** | ![](pictogram/vending_mimic/vending_mimic_02.png) |
 
 ---
 
@@ -63,19 +56,9 @@
 - **SNS共有・紹介 OK**  
 - **改変 OK（派生画像制作も自由）**  
 - **著作権は FIRE STAR Design Studio に帰属します**  
-- **商用利用する場合のみ、事前にご連絡ください**
+- **商用利用する場合のみ事前連絡をお願いします**
 
 ---
 
-## 🔧 制作・編集ソフト
-- Adobe Fresco / Illustrator
-- iPad + Apple Pencil
-- ChatGPT / DALL·E（生成補助）
-
----
-
-## 🌐 Author  
-**FIRE STAR Design Studio**  
+## 🌐 FIRE STAR Design Studio  
 Digital Art / Engineering / Neo-Creation  
-
----
